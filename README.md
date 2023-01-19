@@ -4,7 +4,7 @@
 [![](https://jitpack.io/v/yasanglass/whisper.svg)](https://jitpack.io/#yasanglass/whisper)
 [![](https://jitpack.io/v/yasanglass/whisper/month.svg)](https://jitpack.io/#yasanglass/whisper)
 
-Simple library to handle one-time events on Android.
+Simple library to handle one-time events on Android. It contains only [one Kotlin](https://github.com/yasanglass/whisper/blob/main/whisper/src/main/kotlin/glass/yasan/whisper/WhisperViewModel.kt) file.
 
 ## Download
 
