@@ -23,6 +23,6 @@ allprojects {
 
 ```groovy
 dependencies {
-		implementation 'com.github.yasanglass:whisper:Tag'
+	implementation 'com.github.yasanglass:whisper:Tag'
 }
 ```
