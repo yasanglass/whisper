@@ -11,18 +11,18 @@ Simple library to handle one-time events on Android. It contains only [one Kotli
 1. Add it in your root build.gradle at the end of repositories
 
 ```groovy
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 
 2. Add the dependency
 
 ```groovy
-	dependencies {
-	        implementation 'com.github.yasanglass:whisper:Tag'
-	}
+dependencies {
+		implementation 'com.github.yasanglass:whisper:Tag'
+}
 ```
